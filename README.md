@@ -4,7 +4,7 @@ Welcome to my **personal portfolio website**, developed as the **final project**
 
 ## 🌐 Live Website
 
-🔗[View Live Portfolio](codedev-pooja.github.io/VoC_Internship_FinalTask/)  
+[🔗 View Demo](https://codedev-pooja.github.io/VoC_Internship_FinalTask/) 
 
 ## 📁 Project Structure
 ├── index.html # Main HTML page
